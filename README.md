@@ -1,6 +1,5 @@
 # Rainfall_prediction
-Designed and delivered a web-based rainfall prediction system in 4 weeks using ML models and real-time climate data to provide 5-day forecasts from 10-day historical input, enhancing early warnings and climate resilience.
-
+Web-based rainfall predictor using ML with 10-day input and 5-day forecast, built in 4 weeks to improve early warnings and climate resilience.
 ---
 
 ## 🌧️ Rainfall Prediction Using Machine Learning
